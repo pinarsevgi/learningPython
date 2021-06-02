@@ -1,1 +1,303 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T11:23:50.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" version="14.6.13" etag="NYBjoIHux87Q920zxMTg" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-02T12:25:17.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="ODUM3ZGk5AK9-0S3GlYO" version="14.6.13" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2370" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="pCL9zzbg78--t3BGr4n--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="pCL9zzbg78--t3BGr4n--22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;lt_regular&amp;#34; ; font-size: 10pt&quot;&gt;Step 1: KALİTE/ FİT ANOMALİ TANIMLAMA-&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; font-size: 10pt&quot;&gt; Lcwsuit 1/0 a göre optionlar belirlenecek&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="160" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--0" target="pCL9zzbg78--t3BGr4n--31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--0" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;lt_regular&amp;#34; ; font-size: 10pt&quot;&gt;Step 2: DÖNEM ANOMALİSİ TANIMLAMA-&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; font-size: 10pt&quot;&gt; Lcwsuit 1/0 a göre optionlar belirlenece&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; font-size: 10pt&quot;&gt;k&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="160" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--1" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--1" value="&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; color: rgb(101 , 101 , 101) ; font-size: 10pt&quot;&gt;G1=Lcw suit &amp;gt;&amp;gt; &lt;br&gt;Kalite/fit alanında 1/0 &amp;gt;&amp;gt; &lt;br&gt;option&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="20" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--2" target="pCL9zzbg78--t3BGr4n--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--2" target="pCL9zzbg78--t3BGr4n--34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--2" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;lt_regular&amp;#34; ; font-size: 10pt&quot;&gt;Step 3:CLUSTER BAZINDA MODEL TASARIM RANGE ANOMALİSİ TANIMLAMA-&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; font-size: 10pt&quot;&gt; Lcwsuit 1/0 a göre optionlar belirlenecek&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="160" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--4" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--0" target="pCL9zzbg78--t3BGr4n--2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--5" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="pCL9zzbg78--t3BGr4n--0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="278" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--6" target="pCL9zzbg78--t3BGr4n--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--6" target="pCL9zzbg78--t3BGr4n--39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--6" value="&lt;span style=&quot;font-family: &amp;#34;lt_regular&amp;#34; ; font-size: 10pt&quot;&gt;Step 4:İKLİM ANOMALİSİ TANIMLAMA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1030" y="160" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--7" target="pCL9zzbg78--t3BGr4n--42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--7" target="pCL9zzbg78--t3BGr4n--8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--7" value="&lt;span style=&quot;font-family: &amp;#34;lt_regular&amp;#34; ; font-size: 10pt&quot;&gt;Step 5: PANDEMİ GİBİ MÜCBİR SEBEP ANOMALİSİ-&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; font-size: 10pt&quot;&gt; Mağazlardaki tüm optionlara aynı oran uygulanacak&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1340" y="160" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--8" target="pCL9zzbg78--t3BGr4n--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--8" target="pCL9zzbg78--t3BGr4n--53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--8" value="&lt;span style=&quot;font-family: &amp;#34;lt_regular&amp;#34; ; font-size: 10pt&quot;&gt;Step 6:MAĞAZA BAZINDA YAMYAMLIK ANOMOLİSİ  TANIMLAMA-&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; font-size: 10pt&quot;&gt; Mağazlardaki tüm optionlara aynı oran uygulanacak&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1340" y="480" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--9" target="pCL9zzbg78--t3BGr4n--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--9" target="pCL9zzbg78--t3BGr4n--54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--9" value="&lt;span style=&quot;font-family: &amp;#34;lt_regular&amp;#34; ; font-size: 10pt&quot;&gt;Step 7:MAĞAZA METREKARA BÜYÜTME VE KÜÇÜLTME ANOMOLİSİ TANIMLAMA-&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; font-size: 10pt&quot;&gt; Mağazlardaki tüm optionlara aynı oran uygulanacak&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1040" y="480" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--10" target="pCL9zzbg78--t3BGr4n--11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--10" target="pCL9zzbg78--t3BGr4n--57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--10" value="&lt;span style=&quot;font-family: &amp;#34;lt_regular&amp;#34; ; font-size: 10pt&quot;&gt;Step 8:ÜLKE/CLUSTER BAZINDA OPERASYONEL İYİLEŞME KAT SAYISI VE OPERASYONEL ANOMALİ TANIMLAMA&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; font-size: 10pt&quot;&gt; Mağazlardaki tüm optionlara aynı oran uygulanacak&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="480" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--11" target="pCL9zzbg78--t3BGr4n--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--11" value="&lt;span style=&quot;font-family: &amp;#34;lt_regular&amp;#34; ; font-size: 10pt&quot;&gt;Step 9:&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;lt_regular&amp;#34; , &amp;#34;noto_regular&amp;#34; ; font-size: 10pt&quot;&gt;ATIL STOK ANOMALİ DÜZELTME: &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; font-size: 10pt&quot;&gt;Atıl stok %10 olana kadar olacak şekilde stok düzeltmesi yapılacak. Gün-option-mağaza olmalı&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="480" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.543;entryY=-0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--12" target="pCL9zzbg78--t3BGr4n--13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--12" value="&lt;span style=&quot;font-family: &amp;#34;lt_regular&amp;#34; ; font-size: 10pt&quot;&gt;Step 10:&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;lt_regular&amp;#34; , &amp;#34;lt_regular&amp;#34; , &amp;#34;noto_regular&amp;#34; , &amp;#34;noto_regular&amp;#34; ; font-size: 10pt&quot;&gt;İndirim Anomali düzeltme&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="480" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--13" target="pCL9zzbg78--t3BGr4n--72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--13" target="pCL9zzbg78--t3BGr4n--73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="670" />
+              <mxPoint x="400" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--13" target="pCL9zzbg78--t3BGr4n--74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--13" value="&lt;font face=&quot;lt_regular&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;Step 11:Düzeltilmiş (option/mağaza/gün)&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="630" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="1170" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--18" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="170" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--22" target="pCL9zzbg78--t3BGr4n--0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--22" value="&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; color: rgb(101 , 101 , 101) ; font-size: 10pt&quot;&gt;Ç1=Dahil edilecek &lt;br&gt;optionlar&amp;nbsp;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="270" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--25" target="pCL9zzbg78--t3BGr4n--0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--25" value="&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; color: rgb(101 , 101 , 101) ; font-size: 10pt&quot;&gt;G2=Lcw suit &amp;gt;&amp;gt;&lt;br&gt;&amp;nbsp;dönem anomalisi alanında &lt;br&gt;1/0 &amp;gt;&amp;gt; option&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="445" y="20" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--26" target="pCL9zzbg78--t3BGr4n--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--26" value="&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; color: rgb(101 , 101 , 101) ; font-size: 10pt&quot;&gt;G3=Lcw suit &amp;gt;&amp;gt; &lt;br&gt;tararım/range anomalisi 1/0 &amp;gt;&amp;gt; option&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="755" y="30" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--29" target="pCL9zzbg78--t3BGr4n--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--29" value="&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; color: rgb(101 , 101 , 101) ; font-size: 10pt&quot;&gt;G4=İklim Anomalisi&lt;br&gt;&amp;nbsp;datası&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1055" y="40" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--30" target="pCL9zzbg78--t3BGr4n--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--30" value="&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; color: rgb(101 , 101 , 101) ; font-size: 10pt&quot;&gt;G5=Mağaza seviyesinde&lt;br&gt;&amp;nbsp;düzeltme tablosu&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1365" y="40" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--31" target="pCL9zzbg78--t3BGr4n--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--31" value="&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; color: rgb(101 , 101 , 101) ; font-size: 10pt&quot;&gt;Ç2=Dahil edilecek &lt;br&gt;optionlar&amp;nbsp;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="445" y="270" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--34" target="pCL9zzbg78--t3BGr4n--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--34" value="&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; color: rgb(101 , 101 , 101) ; font-size: 10pt&quot;&gt;Ç3=Dahil edilecek &lt;br&gt;optionlar&amp;nbsp;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="755" y="270" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--39" target="pCL9zzbg78--t3BGr4n--7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1309.9999999999995" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--39" value="&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; color: rgb(101 , 101 , 101) ; font-size: 10pt&quot;&gt;Ç4=Dahil edilecek &lt;br&gt;optionlar&amp;nbsp;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1055" y="270" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--42" target="pCL9zzbg78--t3BGr4n--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--42" value="&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; color: rgb(101 , 101 , 101) ; font-size: 10pt&quot;&gt;Ç5=&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; color: rgb(101 , 101 , 101) ; font-size: 10pt&quot;&gt;Mağaza Option &lt;br&gt;Seviyesinde &lt;br&gt;ayarlanmış Satış&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1530" y="370" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--46" target="pCL9zzbg78--t3BGr4n--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--46" value="&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; color: rgb(101 , 101 , 101) ; font-size: 10pt&quot;&gt;G6= Mağaza &lt;br&gt;seviyesinde düzeltme tablosu&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1630" y="480" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--53" target="pCL9zzbg78--t3BGr4n--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--53" value="&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; color: rgb(101 , 101 , 101) ; font-size: 10pt&quot;&gt;Ç6=&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; color: rgb(101 , 101 , 101) ; font-size: 10pt&quot;&gt;Mağaza Option&amp;nbsp;&lt;br&gt;Seviyesinde&amp;nbsp;&lt;br&gt;ayarlanmış Satış&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1365" y="590" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--54" target="pCL9zzbg78--t3BGr4n--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--54" value="&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; color: rgb(101 , 101 , 101) ; font-size: 10pt&quot;&gt;Ç7=&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; color: rgb(101 , 101 , 101) ; font-size: 10pt&quot;&gt;Mağaza Option&amp;nbsp;&lt;br&gt;Seviyesinde&amp;nbsp;&lt;br&gt;ayarlanmış Satış&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1065" y="590" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--57" target="pCL9zzbg78--t3BGr4n--11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--57" value="&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; color: rgb(101 , 101 , 101) ; font-size: 10pt&quot;&gt;Ç8=&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; color: rgb(101 , 101 , 101) ; font-size: 10pt&quot;&gt;Mağaza Option&amp;nbsp;&lt;br&gt;Seviyesinde&amp;nbsp;&lt;br&gt;ayarlanmış Satış&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="755" y="600" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--59" target="pCL9zzbg78--t3BGr4n--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--59" value="&lt;span style=&quot;color: rgb(101 , 101 , 101) ; font-family: &amp;#34;noto_regular&amp;#34; ; font-size: 13.3333px&quot;&gt;G7=Mağaza seviyesinde&lt;/span&gt;&lt;br style=&quot;color: rgb(101 , 101 , 101) ; font-family: &amp;#34;noto_regular&amp;#34; ; font-size: 13.3333px&quot;&gt;&lt;span style=&quot;color: rgb(101 , 101 , 101) ; font-family: &amp;#34;noto_regular&amp;#34; ; font-size: 13.3333px&quot;&gt;&amp;nbsp;düzeltme tablosu&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1065" y="380" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--61" target="pCL9zzbg78--t3BGr4n--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--61" value="&lt;span style=&quot;color: rgb(101 , 101 , 101) ; font-family: &amp;#34;noto_regular&amp;#34; ; font-size: 13.3333px&quot;&gt;G7=Mağaza seviyesinde&lt;/span&gt;&lt;br style=&quot;color: rgb(101 , 101 , 101) ; font-family: &amp;#34;noto_regular&amp;#34; ; font-size: 13.3333px&quot;&gt;&lt;span style=&quot;color: rgb(101 , 101 , 101) ; font-family: &amp;#34;noto_regular&amp;#34; ; font-size: 13.3333px&quot;&gt;&amp;nbsp;düzeltme tablosu&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="755" y="380" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--72" value="&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; color: rgb(101 , 101 , 101) ; font-size: 10pt&quot;&gt;Ç11= Satış, Stok, &lt;br&gt;Devir Hızı, GMROI&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="630" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--73" target="pCL9zzbg78--t3BGr4n--82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--73" value="&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; color: rgb(101 , 101 , 101) ; font-size: 10pt&quot;&gt;Ç11=&amp;nbsp;&lt;/span&gt;&lt;font color=&quot;#656565&quot; face=&quot;noto_regular&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;Brüt Kar&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="760" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--74" target="pCL9zzbg78--t3BGr4n--78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--74" value="&lt;font face=&quot;lt_regular&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;Step 12:&lt;/span&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;Düzeltilmiş GMROI&#39;ye göre etiletleme (Etiket) hesaplama&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="910" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--78" target="pCL9zzbg78--t3BGr4n--80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--78" value="&lt;font face=&quot;lt_regular&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;Step 13:&lt;/span&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;Mağaza-hafta seviyesinde aritmetik devir hızı kadar artacak varsay (Mor/kırmızı) düzelt&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="910" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--80" target="pCL9zzbg78--t3BGr4n--82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--80" target="pCL9zzbg78--t3BGr4n--94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--80" value="&lt;font face=&quot;lt_regular&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;Step 14:&lt;/span&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;Düzeltilmiş Devir Hızı ;Brüt kar; GMROI (klasman/mağaza/hafta)&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="735" y="910" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--82" target="pCL9zzbg78--t3BGr4n--85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--82" value="&lt;font face=&quot;lt_regular&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;Step 15:&lt;/span&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;Cluster/hafta/klasman seviyesinde 11. stepteki brüt kar oranı hesapla. MAG seviyesinden alduğı pay ==&amp;gt; yeni stok option oranı&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1050" y="910" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--85" target="pCL9zzbg78--t3BGr4n--87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--85" value="&lt;font face=&quot;lt_regular&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;Step 16:&lt;/span&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;Yeni plan stok adedi hesapla&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1360" y="910" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--87" target="pCL9zzbg78--t3BGr4n--89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--87" target="pCL9zzbg78--t3BGr4n--91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="1230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1475" y="1280" />
+              <mxPoint x="885" y="1280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--87" value="&lt;font face=&quot;lt_regular&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;Step 17:&lt;/span&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;Stok artışı hesapla&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1360" y="1160" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--89" target="pCL9zzbg78--t3BGr4n--91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--89" value="&lt;font face=&quot;lt_regular&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;Step 18:&lt;/span&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;Stok artışı hesapla&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1070" y="1160" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--91" target="pCL9zzbg78--t3BGr4n--16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--91" value="&lt;font face=&quot;lt_regular&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;Step 19:Bütçe Adet Hesapla&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="770" y="1160" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pCL9zzbg78--t3BGr4n--94" target="pCL9zzbg78--t3BGr4n--87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCL9zzbg78--t3BGr4n--94" value="&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; color: rgb(101 , 101 , 101) ; font-size: 10pt&quot;&gt;Ç14= &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;noto_regular&amp;#34; ; color: rgb(101 , 101 , 101) ; font-size: 13.3333px&quot;&gt;Devir hızı&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="755" y="1030" width="190" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
